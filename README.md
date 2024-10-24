@@ -1,6 +1,6 @@
 <h1>Hi, I'm David! <br/><a href="https://github.com/joshmadakor1">IT Enthusiast</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Technical Support Specialist</a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻Information Technology Projects:</h2>
 
 - <b>Active Directory Homelab</b>
   -  (https://github.com/DavidIyadimAmboni/Active-Directory-lab/edit/main/README.md)
