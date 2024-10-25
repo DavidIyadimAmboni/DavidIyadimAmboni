@@ -6,18 +6,13 @@
   -  (https://github.com/DavidIyadimAmboni/Active-Directory-lab/edit/main/README.md)
 - <b>Analyzing Network Traffic Between Azure Virtual Machines</b>
   - <b><i>(https://github.com/DavidIyadimAmboni/azure-network-protocols)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
 
 <h2>Certifications</h2>
 
 - Technical Support Engineer Certificate (Ensign College, 2024)
 
   <h2>My Resume</h2>
+  - <b><i>https://drive.google.com/file/d/183GyapojEmiPo3GUfZYmGqmbN6nhzwSG/view?usp=sharing<b><i>
 
 
 <!--
